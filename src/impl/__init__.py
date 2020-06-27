@@ -1,1 +1,1 @@
-from .baseCrawlerImpl import BassCrawlerImpl
+from .baseCrawlerImpl import BaseCrawlerImpl

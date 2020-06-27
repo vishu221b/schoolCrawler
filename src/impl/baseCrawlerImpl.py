@@ -6,7 +6,7 @@ from uuid import uuid4
 import json
 
 
-class BassCrawlerImpl(BaseCrawler):
+class BaseCrawlerImpl(BaseCrawler):
     def __init__(self):
         self._state_wise_serial_map = {}
         self._key_check_obj = None

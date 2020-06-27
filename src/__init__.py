@@ -1,3 +1,3 @@
 from .baseCrawler import BaseCrawler
-from .impl import BassCrawlerImpl
+from .impl import BaseCrawlerImpl
 from .CrawlerEnums import BaseEnums
